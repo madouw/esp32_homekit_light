@@ -1,4 +1,4 @@
-# 基于 ESP32 的 HomeKit LED 控制
+# 基于 ESP32-S3 的 HomeKit LED 控制
 
 本项目展示了如何使用 Apple's HomeKit 协议通过 ESP32 微控制器控制 LED。项目使用 [HomeSpan](https://github.com/HomeSpan/HomeSpan) 库，轻松集成 HomeKit 支持，提供一个通过 Apple Home 应用控制的简单 Wi-Fi LED 控制设备。
 
