@@ -54,10 +54,10 @@ constexpr char passwd[] = "YOUR_WIFI_PASSWORD";  // 替换为你的 Wi-Fi 密码
 constexpr char sn[] = "33877883";  // HomeKit 配对码
 constexpr char qr_id[] = "338-77-883";  // HomeKit QR 码
 ```
-1、打开 Apple Home 应用。
-2、点击 "+" 按钮并选择“添加配件”。
-3、扫描 QR 码或手动输入 HomeKit 配对码。
-4、按照屏幕上的指示完成配对。
+1. 打开 Apple Home 应用。
+2. 点击 "+" 按钮并选择“添加配件”。
+3. 扫描 QR 码或手动输入 HomeKit 配对码。
+4. 按照屏幕上的指示完成配对。
 
 ## LED 控制代码示例
 ```
